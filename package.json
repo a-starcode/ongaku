@@ -5,6 +5,9 @@
   "main": "ongaku.js",
   "author": "a_star__",
   "license": "ISC",
+    "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
     "@discordjs/voice": "^0.7.5",
