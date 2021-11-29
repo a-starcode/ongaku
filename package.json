@@ -8,6 +8,9 @@
     "engines": {
     "node": "16.x"
   },
+  "scripts": {
+    "start": "node ongaku.js"
+  },
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
     "@discordjs/voice": "^0.7.5",
